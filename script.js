@@ -15,8 +15,8 @@ function convertValues(){
 
     
     console.log(currencySelect.value)
-    const dolarToday = 5.2
-    const euroToday = 6.2
+    const dolarToday = 4.97
+    const euroToday = 5.36
 
     
 
