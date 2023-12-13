@@ -227,7 +227,7 @@ function convertValues() {
             currencyValueConverted.innerHTML = new Intl.NumberFormat("en-GB", {
                 style: "currency",
                 currency: "GPB"
-            }).format(valorConvertido)
+            }).format(valorOrigem)
         }
 
 //********************************************************************************** */
