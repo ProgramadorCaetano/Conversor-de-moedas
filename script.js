@@ -60,7 +60,7 @@ function convertValues() {
                 currency: "EUR"
             }).format(valorConvertido)
 
-        } else if (moedaDestino.value == "libra") {
+        } else if (moedaDestino.value == "Libra") {
             valorConvertido = valorOrigem / taxaLibra
 
             currencyValueConverted.innerHTML = new Intl.NumberFormat("en-GB", {
