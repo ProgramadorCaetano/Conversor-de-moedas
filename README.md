@@ -11,8 +11,8 @@ Atualizei e coloquei mais moedas para conversão. Atualmente pode-se converter e
 <p><b>HTML</b></p>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-logo" />
 <br>
-<br>
 <p><b>CSS</b></p>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo" />
 <br>
 <p><b>JAVASCRIPT</b></p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="HTML-logo" />
