@@ -222,7 +222,7 @@ function convertValues() {
                 currency: "BTC"
             }).format(valorConvertido)
 
-        } else if (moedaDestino == "Libra"){
+        } else if (moedaDestino.value == "Libra"){
             valorConvertido = valorOrigem
             currencyValueConverted.innerHTML = new Intl.NumberFormat("en-GB", {
                 style: "currency",
