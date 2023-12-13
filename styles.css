@@ -14,7 +14,7 @@ body{
 }
 
 .logo{
-    width: 300px;
+    width: 150px;
     display: block;
     /*margin-left: auto;
     margin-right: auto;
@@ -109,4 +109,10 @@ section{
     font-weight: 700;
     font-size: 20px;
 
+}
+
+.currency-img-from, .currency-img{
+    width: 44px;
+    height: 44px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
